@@ -1,1 +1,4 @@
 second file
+changed in b2
+
+changed @ 5:27
